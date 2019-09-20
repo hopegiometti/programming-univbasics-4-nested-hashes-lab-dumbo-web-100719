@@ -16,11 +16,6 @@ def hopper
         }
      }
 
-		 programmer_hash[:yukihiro_matsumoto] = {
-		 	:known_for => "Ruby",
-		 	:languages => ["LISP", "C"]
-		 	}
-			programmer_hash
 end
 
 def alan_kay_is_known_for
